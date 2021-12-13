@@ -1,0 +1,17 @@
+{
+  "name": "chathub-socket",
+  "version": "1.0.0",
+  "description": "socket",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "prashant-shekhar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "socket.io": "^4.4.0"
+  }
+}
